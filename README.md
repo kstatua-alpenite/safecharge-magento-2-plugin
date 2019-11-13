@@ -7,17 +7,17 @@ You should add the following inside your composer.json:
   "repositories": [
     {
       "type": "package",
-	    "package": {
-		    "name": "safecharge/magento2-module-safecharge",
+      "package": {
+        "name": "safecharge/magento2-module-safecharge",
         "version": "VERSION THAT MATCH WHAT YOU WANT",
         "type": "package",
         "source": {
-		      "url": "https://github.com/kstatua-alpenite/safecharge-magento-2-plugin.git",
+	  "url": "https://github.com/kstatua-alpenite/safecharge-magento-2-plugin.git",
           "type": "git",
-		      "reference": "TAG OR BRANCH OF FORM" 
-		    }
+	  "reference": "TAG OR BRANCH OF FORM" 
+        }
       }
-	  }
+    }
   ],
   "require": {
     "safecharge/magento2-module-safecharge": "VERSION THAT MATCH WHAT YOU WANT"
@@ -37,17 +37,17 @@ Sample test of this repo:
   "repositories": [
     {
       "type": "package",
-	    "package": {
-		    "name": "safecharge/magento2-module-safecharge",
+      "package": {
+        "name": "safecharge/magento2-module-safecharge",
         "version": "1.6.2",
         "type": "package",
         "source": {
-		      "url": "https://github.com/kstatua-alpenite/safecharge-magento-2-plugin.git",
+	  "url": "https://github.com/kstatua-alpenite/safecharge-magento-2-plugin.git",
           "type": "git",
 		      "reference": "v1.6.2-dev" 
 		    }
       }
-	  }
+    }
   ],
   "require": {
     "safecharge/magento2-module-safecharge": "1.6.2"
