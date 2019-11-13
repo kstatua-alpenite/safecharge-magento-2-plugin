@@ -44,8 +44,8 @@ Sample test of this repo:
         "source": {
 	  "url": "https://github.com/kstatua-alpenite/safecharge-magento-2-plugin.git",
           "type": "git",
-		      "reference": "v1.6.2-dev" 
-		    }
+	  "reference": "v1.6.2-dev" 
+	}
       }
     }
   ],
